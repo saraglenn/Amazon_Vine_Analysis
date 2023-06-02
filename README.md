@@ -37,6 +37,13 @@ Percentage of non-Vine Reviews = 5- Stars: 38.7%
 
 ![percent_nonvine_5_star](https://github.com/saraglenn/Amazon_Vine_Analysis/assets/119461431/75474b41-4ef6-4c44-9491-b89204f6df4b)
 
+## Summary 
 
+The given statistics provide insights into the distribution of reviews based on the star ratings and the distinction between Vine and non-Vine reviews on Amazon. Based on the given analysis results, there is evidence of a positivity bias for reviews in the Vine program on Amazon.
 
+Percentage of 5-star reviews: These results indicate that a larger proportion of Vine reviews received the highest rating compared to non-Vine reviews, suggesting a positivity bias within the Vine program.
 
+5-star reviews: These results further support the positivity bias for Vine reviews, as the count of 5-star ratings is much lower compared to non-Vine reviews despite the higher percentage of 5-star ratings among Vine reviews.
+
+Additional analysis to support the statement:
+To further support the claim of a positivity bias in the Vine program, an analysis of the average rating or distribution of ratings across different star categories could be conducted. This analysis could involve comparing the average rating or the distribution of ratings (e.g., percentage of 1-star, 2-star, etc.) between Vine and non-Vine reviews. If the average rating or the distribution of ratings skews towards higher ratings in the Vine program compared to non-Vine reviews, it would provide additional evidence of a positivity bias.
